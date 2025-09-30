@@ -1,0 +1,10 @@
+C:\Users\ATAKAN\source\repos\dilara\dilara\bin\Debug\dilara.exe.config
+C:\Users\ATAKAN\source\repos\dilara\dilara\bin\Debug\dilara.exe
+C:\Users\ATAKAN\source\repos\dilara\dilara\bin\Debug\dilara.pdb
+C:\Users\ATAKAN\source\repos\dilara\dilara\obj\Debug\dilara.csproj.AssemblyReference.cache
+C:\Users\ATAKAN\source\repos\dilara\dilara\obj\Debug\dilara.Form1.resources
+C:\Users\ATAKAN\source\repos\dilara\dilara\obj\Debug\dilara.Properties.Resources.resources
+C:\Users\ATAKAN\source\repos\dilara\dilara\obj\Debug\dilara.csproj.GenerateResource.cache
+C:\Users\ATAKAN\source\repos\dilara\dilara\obj\Debug\dilara.csproj.CoreCompileInputs.cache
+C:\Users\ATAKAN\source\repos\dilara\dilara\obj\Debug\dilara.exe
+C:\Users\ATAKAN\source\repos\dilara\dilara\obj\Debug\dilara.pdb
